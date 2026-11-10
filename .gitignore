@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+meal_log.jsonl
+
+# 演示工具日志
+.slidep/
